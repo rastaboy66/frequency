@@ -1,0 +1,13 @@
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+</head>
+{
+&quot;reponame&quot;:&quot;template-list-view&quot;,
+&quot;title&quot;:&quot;List View App&quot;,
+&quot;tooltip&quot;:&quot;This template can be used for simple list view application that has a main view with scrollable list and detail view for each list item, this template can be used for creating applications similar to Mail app, Messages app or Twitter* app.&quot;,
+&quot;description&quot;:&quot;This template can be used for simple list view application that has a main view with scrollable list and detail view for each list item, this template can be used for creating applications similar to Mail app, Messages app or Twitter* app.&quot;,
+&quot;articleUrl&quot;:&quot;http://software.intel.com/en-us/html5/articles/templates-to-get-started-with-html5-mobile-app-development&quot;,
+&quot;visible&quot; : &quot;false&quot;,
+&quot;keywords&quot;:[&quot;&quot;],
+&quot;highlights&quot; : [&quot;&quot;]
+}
